@@ -3,7 +3,8 @@
 --- 
 
 # Data Analytics Practice (SQL, Python & Statistics)
-This repository contains my practice work focused on improving data analytics and problem-solving skills through SQL, Python and Statistics.
+
+This repository contains my practice work focused on improving data analytics and problem-solving skills through SQL, Python, and Statistics.
 
 ## Overview
 I regularly practice interview-style questions to strengthen my understanding of:
@@ -32,7 +33,4 @@ To build strong foundations in data analytics and prepare for data analyst / dat
 - SQL
 - Python (pandas, numpy)
 - Statistics fundamentals
-
-## Status
-Actively practicing and updating this repository with new problems and solutions.
 
