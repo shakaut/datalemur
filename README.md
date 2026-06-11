@@ -1,4 +1,4 @@
-<img width="1887" height="870" alt="Screenshot 2026-06-09 153403" src="https://github.com/user-attachments/assets/72e8afa7-5f31-463b-8481-f96a92a3f7f5" />
+<img width="1860" height="876" alt="Screenshot 2026-06-11 140607" src="https://github.com/user-attachments/assets/c1873898-0214-47e9-9f73-150a0bcaf390" />
 
 --- 
 
