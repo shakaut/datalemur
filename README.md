@@ -23,5 +23,5 @@ I regularly practice interview-style questions to strengthen my understanding of
 To build strong foundations in data analytics and prepare for data analyst / data scientist interviews by solving real-world style problems.
 
 ## Tools Used
-- SQL
+- SQL (PostgreSQL)
 
