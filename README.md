@@ -2,7 +2,7 @@
 
 --- 
 
-# Data Analytics Practice (SQL, Python & Statistics)
+# Data Analytics Practice (SQL)
 
 This repository contains my practice work focused on improving data analytics and problem-solving skills through SQL, Python, and Statistics.
 
